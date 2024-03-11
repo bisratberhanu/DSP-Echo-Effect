@@ -1,6 +1,6 @@
 # DSP-Echo-Effect
 
-This is an easy convolution show that uses convolution to demonstrate the effect of echo. It includes a documentation and a MATLAB file.
+This is an easy demonstration that uses convolution to demonstrate the effect of echo. It includes a documentation and a MATLAB file.
 
 ## Documentation
 
